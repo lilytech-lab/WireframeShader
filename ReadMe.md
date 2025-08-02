@@ -1,0 +1,2 @@
+# WireframeShader
+ポリゴンのワイヤーフレーム部分を着色するUnity用シェーダー
