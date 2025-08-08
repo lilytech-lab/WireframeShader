@@ -4,6 +4,8 @@
 
 ポリゴンのワイヤーフレーム部分を着色するUnity URP用シェーダーです。
 
+![UsingImage](https://github.com/user-attachments/assets/01ebf94a-2802-4423-b88e-b3d48ba573e4)
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
@@ -80,3 +82,4 @@ Litシェーダーと同じです。
 ## 📄 License
 
 MITライセンス
+
