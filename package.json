@@ -1,0 +1,22 @@
+{
+  "name": "com.lilytech-lab.wireframe-shader",
+  "version": "1.0.0",
+  "displayName": "WireframeShader",
+  "description": "A shader draws polygon wireframe.",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/lilytech-lab/WireframeShader",
+  "license": "MIT",
+  "keywords": [
+    "Shader",
+    "URP"
+  ],
+  "author": {
+    "name": "Lilytech Lab Ltd.",
+    "email": "info@lilytech-lab.com",
+    "url": "https://www.lilytech-lab.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lilytech-lab/WireframeShader.git"
+  }
+}
