@@ -4,6 +4,8 @@
 
 A Unity URP shader that colors the edges of polygons.
 
+![UsingImage](https://github.com/user-attachments/assets/01ebf94a-2802-4423-b88e-b3d48ba573e4)
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
@@ -22,8 +24,6 @@ A Unity URP shader that colors the edges of polygons.
 - [📄 License](#-license)
 
 <!-- /code_chunk_output -->
-
-![UsingImage](https://github.com/user-attachments/assets/9d4712e0-a645-41cb-9258-5fd4f07e62ef)
 
 ## 📦 Installation
 
