@@ -1,5 +1,8 @@
 # Wireframe Shader
 
+[![openupm](https://img.shields.io/npm/v/com.lilytech-lab.wireframe-shader?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.lilytech-lab.wireframe-shader/)
+  [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-❤️-ff69b4)](https://github.com/sponsors/lilytech-lab)  
+
 [README in English](ReadMe.md)
 
 ポリゴンのワイヤーフレーム部分を着色するUnity URP用シェーダーです。
@@ -77,12 +80,13 @@ Litシェーダーと同じです。
 ## 🏢 Author Info
 
 有限会社リリテックラボ  
+https://www.lilytech-lab.com/  
 [https://github.com/lilytech-lab](https://github.com/lilytech-lab)
 
 大阪で小規模なITエンジニアリングを行っています。
 
+もしお役に立てたなら [こちら](https://github.com/sponsors/lilytech-lab) からサポートいただけると大変喜びます。
+
 ## 📄 License
 
 MITライセンス
-
-
