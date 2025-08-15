@@ -1,5 +1,8 @@
 # WireframeShader
 
+[![openupm](https://img.shields.io/npm/v/com.lilytech-lab.wireframe-shader?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.lilytech-lab.wireframe-shader/)
+  [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-❤️-ff69b4)](https://github.com/sponsors/lilytech-lab)  
+
 [日本語版ReadMeはこちら](ReadMe_ja.md)
 
 A Unity URP shader that colors the edges of polygons.
@@ -75,9 +78,12 @@ If you have ideas for improvements, we would appreciate pull requests.
 ## 🏢 Author Info
 
 Lilytech Lab, Ltd.  
+https://www.lilytech-lab.com/  
 [https://github.com/lilytech-lab](https://github.com/lilytech-lab)
 
-A small IT engineering company based in Osaka, Japan.
+A small IT engineering company base in Osaka, Japan.
+
+If you find this project helpful, I would greatly appreciate your support [here](https://github.com/sponsors/lilytech-lab).
 
 ## 📄 License
 
